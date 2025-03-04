@@ -13,11 +13,11 @@ class Animal(object):
 
 class Dog(Animal):
     def __init__(self, name, age):
-        super().__init__(name, age)
+        super().__init__(name, age) # Call init method of the superclass to do the intialization
     def Bark(self):
         print("Wo Wo Wo")
     def speak(self):
-        super().speak() # use the speak method from animal
+        super().speak() # use the speak method from animal ( super class)
         print("I am a dog")
     def walk(self): # Overriding walk method.
         print("I walk like a dog.")
