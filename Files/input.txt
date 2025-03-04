@@ -1,0 +1,13 @@
+API - Application Programming Interface 
+UI - User Interface 
+UX - User Experience
+IDE - Integrated Development Environment
+OOP - Object-Oriented Programming
+JSON - JavaScript Object Notation
+FIFO - First In First Out
+LIFO - Last in Last Out
+Saas - Software as a Service
+Iass - Infrastructure as a Service
+ML - Machine Learning
+AI - Artificial intelligence
+DFS - Depth first Search
