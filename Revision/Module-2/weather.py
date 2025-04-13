@@ -4,4 +4,4 @@ if temp > 80:
 elif temp < 80 and temp > 55:
     print("Enjoy outdoors!")
 else:
-    print("The weather is pretty cold!. YOu better keep warm.")
+    print("The weather is pretty cold!. You better keep warm.")
